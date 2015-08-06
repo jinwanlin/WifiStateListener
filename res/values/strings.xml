@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifi状态监听器</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wifi_disable">wifi不可用</string>
+    <string name="wifi_disabling">wifi正在断开</string>
+    <string name="wifi_enable">wifi可用</string>
+    <string name="wifi_enabling">wifi正在连接</string>
+    <string name="wifi_unknown">wifi处于未知状态</string>
+    <string name="wifi_connect">网络可用</string>
+    <string name="wifi_unconnect">网络不可用</string>
+
+</resources>
