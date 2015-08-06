@@ -1,0 +1,2 @@
+# WifiStateListener
+获取wifi状态及wifi连接详细状态DetailedState
